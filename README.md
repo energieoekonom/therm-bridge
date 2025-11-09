@@ -31,7 +31,8 @@ Colors and counts in image:
  [     0.8     31968.    ]
  [     0.902  153822.    ]
  [     1.       1824.    ]]
-Colors and counts in pixelmatix:
+Reduced image / pixel matrix size: (97, 100) 
+Colors and counts in pixelmatrix:
 [[   0.     4894.    ]
  [   0.3647  996.    ]
  [   0.6784 1968.    ]
@@ -84,11 +85,16 @@ imperfection due to the limited size of the cross section.<br>
 svg/bridge_plain.png.csv
 ```
 
+Pixels have values from 0 (black) to 1 (white). Values outside this range 
+have special meaning, such as 1000 as a magic key for the overall size of
+the modeled structure in meters.
+
 <h2>Sample Command Lines</h2>
 
 To produce images in the root directory, use the following sample command lines:
 ```
 $> ./png_model_2d.py -pixel_step=10 ./svg/bridge_plain.png
+$> ./png_model_2d.py -pixel_step=10 ./svg/bridge_outer.png
 ```
 
 To get the CSV formatted dumps of computation results, add -csv_dump=1:

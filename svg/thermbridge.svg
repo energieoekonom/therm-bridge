@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="3.55"
-     inkscape:cx="667.60563"
-     inkscape:cy="155.77465"
+     inkscape:zoom="28.4"
+     inkscape:cx="732.5"
+     inkscape:cy="445.45775"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -2284,12 +2284,23 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16824;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168333;stroke-dasharray:none;stroke-opacity:1"
        id="rect59-3"
-       width="49.809681"
+       width="49.865002"
        height="33.454803"
        x="146.61182"
-       y="88.467941" />
+       y="88.467941"
+       inkscape:export-filename="bridge_inner.png"
+       inkscape:export-xdpi="508.02887"
+       inkscape:export-ydpi="508.02887" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.164163;stroke-dasharray:none;stroke-opacity:1"
+       id="rect61-9-8"
+       width="2.934"
+       height="22.216755"
+       x="121.82305"
+       y="-168.80804"
+       transform="rotate(90)" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.162613;stroke-dasharray:none;stroke-opacity:1"
        id="rect60-7"
@@ -2485,6 +2496,14 @@
        y="-196.47604"
        transform="rotate(90)" />
     <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.163991;stroke-dasharray:none;stroke-opacity:1"
+       id="rect61-8"
+       width="2.934"
+       height="22.170172"
+       x="121.82331"
+       y="-196.46735"
+       transform="rotate(90)" />
+    <rect
        style="display:inline;fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:0.161;stroke-dasharray:none;stroke-opacity:1"
        id="rect5-0-9"
        width="41.080044"
@@ -2494,37 +2513,21 @@
        transform="rotate(90)" />
     <path
        style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.161;stroke-dasharray:none;stroke-opacity:1"
-       d="m 174.45938,89.075 v 32.77791 h 22.03533 v -3.50652 h -18.5288 V 89.075 Z"
+       d="m 174.4462,89.075 v 32.77791 h 22.03533 v -3.50652 h -18.5288 V 89.075 Z"
        id="path5-2-6"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.161;stroke-dasharray:none;stroke-opacity:1"
-       d="m 168.70902,89.07374 v 32.77981 h -22.07518 v -3.50652 h 18.56865 V 89.07374 Z"
+       d="m 168.73311,89.07374 v 32.77981 h -22.07518 v -3.50652 h 18.56865 V 89.07374 Z"
        id="path5-8-48-3"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.161;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.160864;stroke-dasharray:none;stroke-opacity:1"
        id="rect6-6-7"
        width="1.5930409"
-       height="49.93837"
-       x="135.20287"
-       y="-196.55916"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.163611;stroke-dasharray:none;stroke-opacity:1"
-       id="rect61-8"
-       width="2.934"
-       height="22.067694"
-       x="121.82331"
-       y="-196.58846"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.163611;stroke-dasharray:none;stroke-opacity:1"
-       id="rect61-9-8"
-       width="2.934"
-       height="22.067694"
-       x="121.82305"
-       y="-168.65898"
+       height="49.853863"
+       x="135.16336"
+       y="-196.47466"
        transform="rotate(90)" />
     <rect
        style="fill:url(#pattern4-1-1);fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"

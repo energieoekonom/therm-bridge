@@ -1,0 +1,9 @@
+Pixel_Value,U_Value,Fix,Description
+0,1000000,0,Innenluft 20C
+0.3647,1,0,Betondecke
+0.6784,0.68,0,Aussenmauer
+0.8,1.3036,0,Lambda_e aussen
+0.902,0.9359,0,Lambda_i innen
+0.949,0.04,0,Daemmschicht
+1,0.000000001,0,Schnittschicht
+1000,1.79,1,Wanddicke

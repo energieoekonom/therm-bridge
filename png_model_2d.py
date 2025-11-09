@@ -25,7 +25,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import eqtn.elliptic_system as els
-import eqtn.heat_flow_map as hfm
 
 # these lines are only for helping improve the display
 import matplotlib_inline.backend_inline
@@ -127,7 +126,8 @@ def png_model2d(args):
         with np.printoptions(precision=4, suppress=True):
             print("Colors and counts in image:")
             print(np.vstack((v_grayimage2d, c_grayimage2d)).T)
-            print("Colors and counts in pixelmatix:")
+            print(f"Reduced image / pixel matrix size: {pixelpicked2d.shape}")
+            print("Colors and counts in pixelmatrix:")
             print(np.vstack((v_pixelpicked2d,c_pixelpicked2d)).T)
  
     if len(v_grayimage2d) != len(v_pixelpicked2d):
